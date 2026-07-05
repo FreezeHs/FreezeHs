@@ -17,7 +17,7 @@
 Building user-mode externals, Discord bots, account automation tools, and captcha-solving pipelines.  
 Focused on **C++**, **TypeScript/Node**, and **Python** — from kernel-adjacent memory work to web panels and APIs.
 
-**Links:** [Discord](https://discord.gg/cbUsVrHpaA) · [Website](https://your-site.com)
+**Links:** [Discord](https://discord.gg/cbUsVrHpaA) · [Website](https://fzshop.xyz)
 
 ---
 
