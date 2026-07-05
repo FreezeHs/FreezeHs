@@ -5,7 +5,7 @@
 **Low-level & automation developer** — game externals, Discord tooling, and captcha infrastructure.
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/cbUsVrHpaA)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-site.com)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://fzshop.xyz)
 [![Profile views](https://komarev.com/ghpvc/?username=FreezeHs&color=5865F2&style=for-the-badge)](https://github.com/FreezeHs)
 
 </div>
